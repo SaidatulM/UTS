@@ -10,7 +10,7 @@ Untuk memahami dan mampu menerapkan Algoritma Watershed yang melibatkan langkah-
 
 
 #1. Import Library dan Processing Awal
-'''python
+'''script
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
