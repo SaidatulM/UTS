@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # --- 1. Import Library, Pembacaan Citra, dan Preprocessing Awal ---
 # PASTIKAN FILE GAMBAR ANDA BERNAMA 'input_image.jpg' DI DALAM FOLDER 'images/'
-FILE_PATH = 'images/input_image.jpg' 
+FILE_PATH = 'image.jpg' 
 
 # Membaca citra BGR (format default OpenCV)
 image_color_bgr = cv2.imread(FILE_PATH)
